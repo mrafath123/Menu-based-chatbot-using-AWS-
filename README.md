@@ -45,8 +45,6 @@ This project implements a menu-based chatbot using Lex Amazon for placing drink 
 ## Setup Instructions
 
 1. **Clone Repository:** Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/your-username/menu-based-chatbot.git
 
 ## Contributors
 
