@@ -9,11 +9,11 @@
 
 **part-2**
 
-[![Menu-based-chatbot-using-AWS](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Menu-based-chatbot-using-AWS](https://img.youtube.com/vi/jfsmkhKis0I/0.jpg)](https://www.youtube.com/watch?v=jfsmkhKis0I)
 
 **part-3**
 
-[![Menu-based-chatbot-using-AWS](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Menu-based-chatbot-using-AWS](https://img.youtube.com/vi/V0dV0vByY-k&t=6s/0.jpg)](https://www.youtube.com/watch?v=V0dV0vByY-k&t=6s)
 
 
 
